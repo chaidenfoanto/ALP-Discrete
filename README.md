@@ -1,9 +1,8 @@
-# Dokumentasi Tugas Implementasi Teori Graf dengan Python
+# ALP Matematika Diskrit - Implementasi Teori Graf Menggunakan Python
 
-## Biodata
-**ALP Matematika Diskrit**  
 Nama: Chaiden Richardo Foanto  
 NIM: 0806022310023
+---
 
 ## 1. Tujuan
 Tugas ini bertujuan untuk mengimplementasikan konsep teori graf menggunakan bahasa pemrograman Python, termasuk operasi-operasi dasar seperti:
